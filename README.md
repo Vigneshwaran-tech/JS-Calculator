@@ -7,20 +7,6 @@ A simple and responsive calculator built using HTML, CSS, and Vanilla JavaScript
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## ✨ Features
 
 - 🧮 Basic arithmetic operations: add, subtract, multiply, divide  
@@ -106,7 +92,7 @@ Contributions are welcome! To contribute:
 
 **Vigneshwaran**
 
-Feel free to connect on [GitHub](https://github.com/your-username) or [LinkedIn](https://linkedin.com/in/your-profile) (replace with actual links).
+Feel free to connect on [GitHub](https://github.com/your-username) or [LinkedIn](https://linkedin.com/in/vigneshwaran0).
 
 ---
 
